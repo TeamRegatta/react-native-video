@@ -1,4 +1,4 @@
-package com.brentvatne.exoplayer;
+package com.regatta.brentvatne.exoplayer;
 
 import com.google.android.exoplayer2.upstream.DefaultBandwidthMeter;
 import com.google.android.exoplayer2.upstream.LoadErrorHandlingPolicy;
