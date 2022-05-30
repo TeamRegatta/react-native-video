@@ -509,7 +509,7 @@ Video.propTypes = {
   ...ViewPropTypes,
 };
 
-const RCTVideo = requireNativeComponent('RCTVideo', Video, {
+const RCTVideo = requireNativeComponent('RegattaRCTVideo', Video, {
   nativeOnly: {
     src: true,
     seek: true,
