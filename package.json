@@ -1,5 +1,5 @@
 {
-    "name": "react-native-video",
+    "name": "react-native-video-regatta",
     "version": "5.2.0",
     "description": "A <Video /> element for react-native",
     "main": "Video.js",
