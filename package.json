@@ -23,10 +23,6 @@
             "email": "me@hamptonmaxwell.com"
         }
     ],
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:react-native-community/react-native-video.git"
-    },
     "devDependencies": {
         "@react-native-community/eslint-config": "0.0.7",
         "babel-eslint": "10.0.3",
